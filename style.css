@@ -47,4 +47,29 @@ footer {
   .intro-text {
     font-size: 1.5em;
   }
+  /* ... [existing CSS content] ... */
+
+.experience-item, .skill-item {
+    margin-bottom: 20px;
+}
+
+.skill-bar {
+    /* Add any additional styling for skill bars here */
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+footer a {
+    color: #0d6efd;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Add any other CSS as needed */
+
 }
